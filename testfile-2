@@ -1,5 +1,9 @@
 test file 2
 we want to see the change 
+<<<<<<< HEAD
 hello
 
 this is the 2nd file update to test
+=======
+hello
+>>>>>>> test-branch
