@@ -12,7 +12,7 @@ received the changes
 
 
 -----
-test for conflict creation.
+test for conflict creation (2nd attempt).
 This is test for fetch command
 + another branch change this is ==> 
-end line for the conflict test
+end line for the conflict (retest) test
